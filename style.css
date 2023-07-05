@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f1e0;
+    align-items: center;
+    text-align: center;
+}
+/*estilos para titulo principal*/
+    h1 {
+        font-family: Verdana, sans-serif;
+        color: black;
+        font-size: 24px;
+         text-align: center
+         }
+/*estilos para titulo principal*/
+h2 {
+color: black;
+font-size: 18px;
+text-align: center;
+}
+/*estilos para os paragrafos*/
+p {
+    color: black;
+    font-size: 14px;
+    line: height 1.5em;:
+    text-align center;
+}
